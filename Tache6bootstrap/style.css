@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.image-1{
+    width: 50px;
+    height: 70px;
+}
+#home{
+    background-color: #039090;
+}
+#Programme{
+    background-color: #039090;
+}
+#lo{
+    height: 50ps;
+    width: 50px;
+}
+#row1{
+    background-color: #effefe;
+}
+#i1{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    background-color: #039090;
+}
